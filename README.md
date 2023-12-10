@@ -17,7 +17,7 @@ This project delves into meme sentiment classification, employing machine learni
 
 The project employs various machine learning and deep learning models, including Random Forest, KNN, Extra Tree Classifier, Stochastic Gradient Descent, Multinomial Naive Bayes, Logistic Regression, Vit-sbert bilstm, and Inception ResNet-V2.
 
-![Architecture Diagram](path/to/your/architecture_diagram.png)
+![Architecture Diagram](![vit-sberbilastmimg](https://github.com/09aryan/MEME_CLASSIFICATION_USING_SENTIMENT_ANALYSIS/assets/99637603/20e33118-163b-423e-93b0-65dc6dfa1ffa))
 
 ## About Dataset
 
@@ -33,7 +33,7 @@ The dataset consists of 6992 meme images, each labeled with one or more of the s
 - **Random Forest, KNN, Extra Tree Classifier:**
   - Accuracy: $\sim$73%
   - F1 Score (Macro): $\sim$64%
-  - ![Accuracy Plot](path/to/your/accuracy6.jpeg)
+  - ![Accuracy Plot](![accuracy6](https://github.com/09aryan/MEME_CLASSIFICATION_USING_SENTIMENT_ANALYSIS/assets/99637603/67e83044-4f28-493d-a13d-189a0c48bc33))
   - Discussion: Tree-based models like Random Forest, KNN, and Extra Tree Classifier outshine other methodologies, showcasing robustness in capturing intricate, non-linear relationships in meme text data.
 
 - **Stochastic Gradient Descent Classifier:**
