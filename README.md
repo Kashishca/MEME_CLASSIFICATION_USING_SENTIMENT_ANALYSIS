@@ -19,15 +19,15 @@ The project employs various machine learning and deep learning models, including
 
 <div align="center">
 
-## Random Forest
+## bert-bilstm model architecture
 
 <img src="https://github.com/09aryan/MEME_CLASSIFICATION_USING_SENTIMENT_ANALYSIS/assets/99637603/20e33118-163b-423e-93b0-65dc6dfa1ffa" width="400">
 
-## KNN
+## vit model architecture
 
 <img src="https://github.com/09aryan/MEME_CLASSIFICATION_USING_SENTIMENT_ANALYSIS/assets/123651189/92962a15-ce6c-4e6a-9519-503279e5d433" width="400">
 
-## Extra Tree Classifier
+## Inception-ResNet-v2 model
 
 <img src="https://github.com/09aryan/MEME_CLASSIFICATION_USING_SENTIMENT_ANALYSIS/assets/123651189/359ae785-3361-433d-8baf-0a78d37edc09" width="400">
 
