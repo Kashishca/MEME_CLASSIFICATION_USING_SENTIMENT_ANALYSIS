@@ -19,6 +19,10 @@ The project employs various machine learning and deep learning models, including
 
 ![vit-sberbilastmimg](https://github.com/09aryan/MEME_CLASSIFICATION_USING_SENTIMENT_ANALYSIS/assets/99637603/20e33118-163b-423e-93b0-65dc6dfa1ffa)
 
+![aryan1](https://github.com/09aryan/MEME_CLASSIFICATION_USING_SENTIMENT_ANALYSIS/assets/123651189/92962a15-ce6c-4e6a-9519-503279e5d433)
+
+![vit-vit](https://github.com/09aryan/MEME_CLASSIFICATION_USING_SENTIMENT_ANALYSIS/assets/123651189/359ae785-3361-433d-8baf-0a78d37edc09)
+
 ## About Dataset
 
 The dataset consists of 6992 meme images, each labeled with one or more of the sentiment categories—Very Positive, Positive, Neutral, Negative, and Very Negative. The "Text OCR" column contains raw Optical Character Recognition (OCR) output, and the "Text Corrected" column likely presents a version of the text that has been manually or automatically corrected for accuracy. The "Overall Sentiment" column is the target variable for sentiment analysis.
