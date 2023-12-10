@@ -31,9 +31,9 @@ The dataset consists of 6992 meme images, each labeled with one or more of the s
   - Discussion: The Vit-sbert bilstm model exhibits moderate performance, suggesting limitations in capturing diverse and nuanced sentiment in memes.
 
 - **Random Forest, KNN, Extra Tree Classifier:**
-  - Accuracy: $\sim$73%
-  - F1 Score (Macro): $\sim$64%
-  - (https://github.com/09aryan/MEME_CLASSIFICATION_USING_SENTIMENT_ANALYSIS/assets/99637603/67e83044-4f28-493d-a13d-189a0c48bc33)
+  - Accuracy: 73%
+  - F1 Score (Macro): 64%
+  - ![accuracy6](https://github.com/09aryan/MEME_CLASSIFICATION_USING_SENTIMENT_ANALYSIS/assets/99637603/67e83044-4f28-493d-a13d-189a0c48bc33)
   - Discussion: Tree-based models like Random Forest, KNN, and Extra Tree Classifier outshine other methodologies, showcasing robustness in capturing intricate, non-linear relationships in meme text data.
 
 - **Stochastic Gradient Descent Classifier:**
@@ -42,8 +42,8 @@ The dataset consists of 6992 meme images, each labeled with one or more of the s
   - Discussion: The Stochastic Gradient Descent Classifier demonstrates limitations in accurately categorizing meme sentiments, facing challenges in handling diverse and unconventional expressions.
 
 - **Multinomial Naive Bayes Classifier, Logistic Regression:**
-  - Accuracy: $\sim$51%
-  - F1 Score (Weighted): $\sim$41%
+  - Accuracy: 51%
+  - F1 Score (Weighted): 41%
   - Discussion: Models like Multinomial Naive Bayes and Logistic Regression exhibit constrained performance, struggling to capture diverse sentiments in memes.
 
 - **Inception ResNet-V2:**
