@@ -2,40 +2,24 @@
 
 ## Overview
 
-This repository contains the code and documentation for a meme sentiment analysis project. The project explores various machine learning and deep learning models to classify sentiments expressed in memes.
+Welcome to the Meme Sentiment Analysis project! This repository hosts the code and findings from our exploration into sentiment analysis within the context of memes. We've employed various machine learning and deep learning models to understand and classify the sentiments expressed in meme content.
 
-## Table of Contents
+## Project Highlights
 
-- [Introduction](#introduction)
-- [Dataset](#dataset)
-- [Model Architecture](#model-architecture)
-- [Results and Discussions](#results-and-discussions)
-- [Conclusion](#conclusion)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+- Diverse dataset for training and testing models
+- Implementation and evaluation of eight models, including traditional classifiers and neural network architectures
+- In-depth analysis of model performance and insights into challenges faced by different methodologies
+- Recommendations for future work and enhancements
 
-## Introduction
+## Key Sections
 
-In the realm of meme sentiment analysis, this project aims to explore the effectiveness of different machine learning and deep learning models. The repository contains implementations and evaluations of eight models, including traditional classifiers and neural network architectures.
+- **Dataset**: Explore the composition and structure of the dataset used for training and testing. See [Dataset](./docs/dataset.md).
+  
+- **Model Architecture**: Dive into the details of the models employed, their strengths, and limitations. Visit [Model Architecture](./docs/model_architecture.md).
 
-## Dataset
+- **Results and Discussions**: Gain insights into model performance variations, challenges faced by neural networks, and recommendations for future work. See [Results and Discussions](./docs/results_and_discussions.md).
 
-A diverse dataset was used for training and testing the models. The dataset includes meme content with associated sentiment labels. Details about the dataset and its structure can be found in the [Dataset](./docs/dataset.md) documentation.
-
-## Model Architecture
-
-The project utilizes a variety of models, such as Random Forest, KNN, Logistic Regression, CNN, and others. The [Model Architecture](./docs/model_architecture.md) documentation provides insights into the performance of each model and discusses their strengths and limitations.
-
-## Results and Discussions
-
-The [Results and Discussions](./docs/results_and_discussions.md) section highlights the performance variations among the models, challenges faced by neural networks, and the need for contextual adaptation. It also suggests potential areas for future work.
-
-## Conclusion
-
-The [Conclusion](./docs/conclusion.md) summarizes key findings and the significance of tree-based models, particularly Random Forest, KNN, and Extra Tree Classifier, in achieving higher accuracy in sentiment classification within memes.
+- **Conclusion**: A summary of key findings and the significance of tree-based models in achieving higher accuracy.
 
 ## Getting Started
 
@@ -55,5 +39,5 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ## Acknowledgements
 
-Special thanks to [Your Name] for guidance and support throughout the project.
+Special thanks to Dr.Animesh for guidance and support throughout the project.
 
