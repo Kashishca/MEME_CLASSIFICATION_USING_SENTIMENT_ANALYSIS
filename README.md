@@ -17,11 +17,18 @@ This project delves into meme sentiment classification, employing machine learni
 
 The project employs various machine learning and deep learning models, including Random Forest, KNN, Extra Tree Classifier, Stochastic Gradient Descent, Multinomial Naive Bayes, Logistic Regression, Vit-sbert bilstm, and Inception ResNet-V2.
 
+## Random Forest
+
 ![vit-sberbilastmimg](https://github.com/09aryan/MEME_CLASSIFICATION_USING_SENTIMENT_ANALYSIS/assets/99637603/20e33118-163b-423e-93b0-65dc6dfa1ffa)
+
+## KNN
 
 ![aryan1](https://github.com/09aryan/MEME_CLASSIFICATION_USING_SENTIMENT_ANALYSIS/assets/123651189/92962a15-ce6c-4e6a-9519-503279e5d433)
 
+## Extra Tree Classifier
+
 ![vit-vit](https://github.com/09aryan/MEME_CLASSIFICATION_USING_SENTIMENT_ANALYSIS/assets/123651189/359ae785-3361-433d-8baf-0a78d37edc09)
+
 
 ## About Dataset
 
