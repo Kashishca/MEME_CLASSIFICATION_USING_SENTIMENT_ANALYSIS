@@ -80,8 +80,5 @@ To reproduce the experiments:
 3. Run the code to train and evaluate models.
 4. Interpret the results and metrics provided.
 
-## Future Work
-
-Include details about future research directions, potential improvements, and areas for exploration in meme sentiment analysis.
 
 
